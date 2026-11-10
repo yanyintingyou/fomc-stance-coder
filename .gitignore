@@ -1,0 +1,15 @@
+# Generated data
+/FOMC statement/
+/FOMC minutes/
+/extracted/
+/coded/
+
+# Local configuration and credentials
+_code/profiles.json
+_code/keys.json
+_code/api_key.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
